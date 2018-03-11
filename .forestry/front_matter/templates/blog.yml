@@ -1,0 +1,22 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: This appears in search engine results under the link
+  config:
+    wysiwyg: false
+- type: text
+  name: slug
+  label: Slug
+  description: www.moja.market/blog/ (your slug here)
+- type: tag_list
+  name: categories
+  label: Categories
+  description: Add a maximum of 5 categories
