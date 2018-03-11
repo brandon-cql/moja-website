@@ -1,6 +1,7 @@
 +++
 categories = ["digital economy", "fintech", "technology leapfrog", "networked enterprise", "digital adoption"]
 description = ""
+draft = true
 title = "Africa’s Challenge to Entering the Digital Economy"
 
 +++
