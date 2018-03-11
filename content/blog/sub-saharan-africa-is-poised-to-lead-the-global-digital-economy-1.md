@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2018-03-11T21:04:51+00:00"
+date = "2018-03-11T21:04:51Z"
 description = ""
 title = "Sub-Saharan Africa Is Poised to Lead the Global Digital Economy"
 
