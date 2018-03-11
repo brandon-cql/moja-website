@@ -1,11 +1,9 @@
 +++
-
-title = "Africa’s Challenge to Entering the Digital Economy"
-description = ""
 categories = ["digital economy", "fintech", "technology leapfrog", "networked enterprise", "digital adoption"]
+description = ""
+title = "Africa’s Challenge to Entering the Digital Economy"
 
 +++
-
 Sub-Saharan Africa accounts for nearly a tenth of the global mobile subscriber base and is expected to grow faster than every other region over the next five years.
 
 The mobile industry plays an increasingly important role in the social and economic development of the region: mobile connectivity has become the main platform for innovation and the driving force for greater inclusion, while the mobile ecosystem, including mobile network operators and device vendors, contributes significantly to economic growth and jobs. Across the region, mobile is enabling life-enhancing services that directly impact the UN Sustainable Development Goals (SDGs), complementing the efforts of governments and their development partners.
