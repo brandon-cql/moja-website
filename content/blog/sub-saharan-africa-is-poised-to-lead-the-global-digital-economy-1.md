@@ -2,7 +2,7 @@
 categories = []
 date = "2018-03-11T21:04:51+00:00"
 description = ""
-slug = ""
+slug = "sub-saharan-africa-is-poised-to-lead-the-global-digital-economy"
 title = "Sub-Saharan Africa Is Poised to Lead the Global Digital Economy"
 
 +++
