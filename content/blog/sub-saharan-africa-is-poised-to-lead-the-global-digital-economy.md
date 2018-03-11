@@ -1,7 +1,8 @@
 +++
-categories = ["fintech", "digital economy", "smartphones", "sub-saharan Africa", "mobile internet"]
-description = ""
+
 title = "Sub-Saharan Africa Is Poised to Lead the Global Digital Economy"
+description = ""
+categories = ["fintech", "digital economy", "smartphones", "sub-saharan Africa", "mobile internet"]
 
 +++
 Every day, billions of people around the world use the internet to share ideas, trade with one another, and keep in touch with family, friends, and colleagues. With worldwide internet penetration at nearly 50 percent, the global digital economy has become a space of immense opportunity.
