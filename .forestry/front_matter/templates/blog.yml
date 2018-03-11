@@ -9,7 +9,8 @@ fields:
 - type: textarea
   name: description
   label: Description
-  description: This appears in search engine results under the link
+  description: This appears in search engine results under the link (165 characters
+    max)
   config:
     wysiwyg: false
 - type: tag_list
