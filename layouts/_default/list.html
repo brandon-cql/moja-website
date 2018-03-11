@@ -8,7 +8,7 @@
 	<aside class="animated fadeInLeft">
 		<h3>Categories</h3><br>
 		<ul>
-			<li><a href="/blog">All Catagories</a></li>
+			<li><a href="/blog">All Categories</a></li>
 			{{ range $key, $value := .Site.Taxonomies.categories }}
 			<li><a href="/categories/{{ $key | urlize }}">{{ $key | title }}</a></li>
     {{ end }}
