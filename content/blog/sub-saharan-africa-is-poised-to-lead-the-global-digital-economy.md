@@ -1,6 +1,6 @@
 +++
 categories = ["fintech", "digital economy", "smartphones", "sub-saharan Africa", "mobile internet"]
-date = "2018-03-11T21:27:45+00:00"
+date = "2018-03-11T21:27:45Z"
 description = ""
 title = "Sub-Saharan Africa Is Poised to Lead the Global Digital Economy"
 
